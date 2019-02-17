@@ -1,0 +1,9 @@
+https://github.com/tensorflow/models/blob/master/research/object_detection/utils/label_map_util.py
+https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e
+https://github.com/RomRoc/objdet_train_tensorflow_colab/blob/master/objdet_custom_tf_colab.ipynb   ---( with python 2.7)
+https://github.com/qdraw/tensorflow-object-detection-tutorial/blob/master/image_object_detection.py
+https://github.com/jjiteshh/YOLO_YOUTUBE_COLAB/blob/master/YOLO_object_detection_on_YouTube_videos_using_Google_Colabs_Free_GPU_!%20(1).ipynb
+https://www.youtube.com/watch?v=213s8ewtyNA&t=1217s
+https://www.youtube.com/watch?v=JueM05g4MWs
+https://www.youtube.com/?gl=IN
+https://github.com/sachinruk/deepschool.io/tree/master/DL-Keras_Tensorflow
